@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<b>I am a **Mobile application** developer working in Bengaluru, India ✨✨.</b>
+<b>I am a **Software Developer** working in Bengaluru, India ✨✨.</b>
 
 - 🔭 I’m currently working at **IBM India Software Labs** 
-- ⚙️ I use daily: `.swift`, `.ObjC`, `.JS`.
-- 🌱 I’m currently learning <i>**ARKit**</i> and <i>**CoreMotion**</i> 
+- ⚙️ I use daily: `.go`, `.py`, `.swift`, `.ObjC`, `.JS`.
+- 🌱 I’m currently learning <i>**Golang**</i> and <i>**SwiftUI Animations**</i> 
 - 👯 I’m looking to collaborate on Startups/Apps/Services ideas
 
 connect with me here:
@@ -17,18 +17,3 @@ connect with me here:
 ## Github Public Stats
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ananthakrish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AnanthaKrish)
-
-<!--
-**AnanthaKrish/AnanthaKrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
