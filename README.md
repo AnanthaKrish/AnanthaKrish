@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<b>I am a **Software Developer** working in Bengaluru, India ✨✨.</b>
+<b>I am a **Software Developer** working in Durham, North Carolina, USA ✨✨.</b>
 
-- 🔭 I’m currently working at **IBM India Software Labs** 
+- 🔭 Building a SaaS product
 - ⚙️ I use daily: `.go`, `.py`, `.swift`, `.ObjC`, `.JS`.
-- 🌱 I’m currently learning <i>**Golang**</i> and <i>**SwiftUI Animations**</i> 
+- 🌱 I’m currently learning <i>**ML**</i> and <i>**SwiftUI**</i> 
 - 👯 I’m looking to collaborate on Startups/Apps/Services ideas
 
 connect with me here:
